@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/coursera/CourseraReactive/homeworks/calculator" value="1429511120000" />
+        <entry key="$USER_HOME$/coursera/CourseraReactive/homeworks/example" value="1428918142000" />
+        <entry key="$USER_HOME$/coursera/CourseraReactive/homeworks/nodescala" value="1430109980000" />
+        <entry key="$USER_HOME$/coursera/CourseraReactive/homeworks/quickcheck" value="1429086102000" />
+        <entry key="$USER_HOME$/coursera/CourseraReactive/homeworks/suggestions" value="1430777854000" />
+        <entry key="$USER_HOME$/coursera/scala_course/course1/example" value="1459491174000" />
+        <entry key="$USER_HOME$/coursera/scala_course/course1/funsets" value="1462291040000" />
+        <entry key="$USER_HOME$/coursera/scala_course/course1/objsets" value="1462294046000" />
+        <entry key="$USER_HOME$/coursera/scala_course/course1/patmat" value="1462351264000" />
+        <entry key="$USER_HOME$/coursera/scala_course/course1/recfun" value="1462343930000" />
+        <entry key="$USER_HOME$/coursera/scala_course/course2/calculator" value="1465282146000" />
+        <entry key="$USER_HOME$/coursera/scala_course/course2/example" value="1457087870000" />
+        <entry key="$USER_HOME$/coursera/scala_course/course2/quickcheck" value="1464259370000" />
+        <entry key="$USER_HOME$/coursera/scala_course/course2/streams" value="1464258252000" />
+        <entry key="$USER_HOME$/coursera/scala_course/course3/barneshut" value="1465534684000" />
+        <entry key="$USER_HOME$/coursera/scala_course/course3/example" value="1456661356000" />
+        <entry key="$USER_HOME$/coursera/scala_course/course3/kmeans" value="1465209434000" />
+        <entry key="$USER_HOME$/coursera/scala_course/course3/reductions" value="1465208482000" />
+        <entry key="$USER_HOME$/coursera/scala_course/course3/scalashop" value="1465207094000" />
+        <entry key="$USER_HOME$/workspace/GithubScrapper" value="1470847557000" />
+        <entry key="$USER_HOME$/workspace/guan-data" value="1467634556000" />
+        <entry key="$USER_HOME$/workspace/guandata-core" value="1493216152000" />
+        <entry key="$USER_HOME$/workspace/play-silhouette-credentials-seed" value="1474177448000" />
+        <entry key="$USER_HOME$/workspace/play-silhouette-seed" value="1474173475000" />
+        <entry key="$USER_HOME$/workspace/play-websocket-sample" value="1470830338000" />
+        <entry key="$USER_HOME$/workspace/spark-jobserver" value="1467360093000" />
+        <entry key="$USER_HOME$/workspace/ticket-overlords" value="1469457229000" />
+        <entry key="$USER_HOME$/workspace/typesafe_config" value="2948746378000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
